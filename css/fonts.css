@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto/Roboto-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/Fira/FiraSans-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/Fira/FiraSans-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("../fonts/Fira/FiraSans-Light.ttf");
+  font-weight: 300;
+}
+/*# sourceMappingURL=fonts.css.map */
