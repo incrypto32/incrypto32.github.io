@@ -369,10 +369,15 @@ body {
     color:rgb(7, 182, 212);
   }
   .contact-icons{
+    // border:2px white solid;
     display: flex;
     justify-content: center;
     align-items: center;
+    // text-align: center;
     // flex-wrap: wrap;
+    a {
+      display: block;
+    }
   }
 }
 
