@@ -368,7 +368,10 @@ body {
   .twitter-icon{
     color:rgb(7, 182, 212);
   }
-  
+  .contact-icons{
+    display: flex;
+    // flex-wrap: wrap;
+  }
 }
 
 .footer {

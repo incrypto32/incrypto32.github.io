@@ -472,6 +472,12 @@ body {
   color: #07b6d4;
 }
 
+.contact .contact-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .footer {
   margin-top: 4rem;
   text-align: center;
