@@ -178,7 +178,7 @@ body {
 }
 
 #site-banner .site-banner .me {
-  margin-top: 20vh;
+  margin-top: 10vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -491,6 +491,7 @@ body {
 .footer {
   margin-top: 4rem;
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 .footer i {
