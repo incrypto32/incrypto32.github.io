@@ -167,7 +167,6 @@ body {
 }
 
 #site-banner .site-banner {
-  margin-top: 2vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -200,7 +199,7 @@ body {
 
 #site-banner .site-banner .me h1 {
   padding: 20px 30px;
-  font: normal bold 2.5rem "Fira Sans";
+  font: normal bold 2rem "Fira Sans";
   letter-spacing: 5px;
 }
 
@@ -238,7 +237,7 @@ body {
 }
 
 .about-section .about-area {
-  margin-top: 10rem;
+  margin-top: 6rem;
   width: 100%;
 }
 
