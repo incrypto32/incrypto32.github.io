@@ -21,6 +21,8 @@ body {
   font: normal 300 3rem "Fira Sans";
   text-transform: uppercase;
   letter-spacing: 1rem;
+  // text-align: center;
+  padding: 1rem;
 
 }
 .nav-container {
@@ -153,6 +155,7 @@ body {
       font:normal bold 2.5rem "Fira Sans";
       letter-spacing: 5px;
       
+      
     }
     p{
       font:normal 300 25px "Fira Sans";
@@ -165,6 +168,9 @@ body {
       justify-content: space-around;
       a{
         padding: 5px;
+        i:hover {
+          color:$accent-color;
+        }
       }
     }
   }
@@ -268,7 +274,7 @@ body {
   display: flex;
   justify-content: center;
   .skill-box{
-    height: 50vh;
+    // height: 50vh;
     margin-top: 10vh;
     text-align: center;
     
@@ -282,6 +288,7 @@ body {
         margin:1rem 1rem;
         padding: 1rem;
         background-color: #161020d3;
+        border-radius: 1rem;
         box-shadow:-.5rem .3rem 1rem rgb(0, 0, 0);
         text-align: left;
         transition: .3s all ease-in-out;
@@ -300,3 +307,75 @@ body {
   }
 }
 
+.experience {
+  width: 100%;
+  text-align: center;
+  margin-top: 5vh;
+
+  .exp-box{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    .exp-card {
+      flex:1;
+      text-align: left;
+      width:20rem;
+      margin:1rem 1rem;
+      padding: 1rem;
+      background-color: #161020d3;
+      box-shadow:-.5rem .3rem 1rem rgb(0, 0, 0);
+      
+      transition: .3s all ease-in-out;
+      a{
+        color: rgb(93, 93, 207);
+        text-decoration: none;
+        display: block;
+        padding: 1rem 0;
+      }
+    h2{
+      text-align: center;
+      padding: 1rem;
+    }
+    }
+  }
+
+}
+
+.contact {
+  text-align: center;
+  h3,h4{
+    
+    font-weight: 300;
+    padding: .5rem;
+  }
+  i{
+    padding: 2rem;
+    color:rgb(148, 148, 253);
+  }
+  .telegram-icon{
+    color:rgb(62, 183, 231);
+  }
+  .email-icon{
+    color: rgb(219, 64, 7);
+  }
+  .instagram-icon{
+    background: radial-gradient(33% 100% circle, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .twitter-icon{
+    color:rgb(7, 182, 212);
+  }
+  
+}
+
+.footer {
+  text-align: center;
+  i{
+    color: rgb(235, 2, 41);
+  }
+  h3{
+    font-weight: 300;
+  }
+}
