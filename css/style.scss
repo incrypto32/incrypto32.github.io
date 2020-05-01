@@ -6,8 +6,12 @@ $background-color:rgb(12, 9, 34);
 * {
   margin: 0;
   padding: 0;
-  color:white;
+  color:white; 
+  
   // border: 2px white solid;
+}
+html {
+	scroll-behavior: smooth;
 }
 body {
   background-color: $background-color;
