@@ -387,11 +387,6 @@ body {
   transition: .3s all ease-in-out;
 }
 
-.skills-area .skill-box .skill-list .skill-list-card:hover {
-  -webkit-transform: translateY(-1.5rem);
-          transform: translateY(-1.5rem);
-}
-
 .skills-area .skill-box .skill-list .skill-list-card h1 {
   margin: 1rem 0;
 }

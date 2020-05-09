@@ -296,9 +296,7 @@ body {
         box-shadow:-.5rem .3rem 1rem rgb(0, 0, 0);
         text-align: left;
         transition: .3s all ease-in-out;
-        &:hover{
-          transform: translateY(-1.5rem);
-        }
+       
         h1{
           margin:1rem 0;
         }
