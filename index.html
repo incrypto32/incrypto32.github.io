@@ -49,8 +49,8 @@
         </nav>
       </div>
     </section>
-    <section id="site-banner">
-      <div class="site-banner">
+    <section id="site-banner" >
+      <div class="site-banner ">
         <div class="me">
           <img src="./images/me.png" alt="incrypto" />
           <h1>Krishnanand V P</h1>
@@ -70,7 +70,7 @@
     </section>
 
     <section class="about-section" id="about">
-      <div class="about-area">
+      <div class="about-area  ">
         
         <div class="about-content">
           <div class="about-image">
@@ -79,7 +79,7 @@
           <div class="about-info" id="about-info">
             <h1 class="section-title">About Me</h1>
             <div class="para">
-              <p>Hi,Im Krishnanad.A Cs undergrad student at Government Engineering college thrissur.I have an ardent interest and enthusiasm in technology.My major area of interests are cloud computing,containers,kubernetes etc.Iam also a freelance mobile application developer. I like to work on the backend more but I also love to design.</p><br></p>Apart from that on the Non-Tech side I'm an avid reader.Iam mainly into non-fiction but i also enjoy thrilling sci-fi novels and .Iam binge watcher when it comes to series.Iam also into Astrophysics.I love music and love to play my guitar.</p>
+              <p>Hi,Im Krishnanad.A Cs undergrad student at Government Engineering college thrissur.I have an ardent interest and enthusiasm in technology.My major area of interests are cloud computing,containers,kubernetes etc.Iam also a freelance mobile application developer. I like to work on the backend more but I also love to design.</p><br></p>Apart from that on the Non-Tech side I'm an avid reader.Iam mainly into non-fiction but i also enjoy thrilling sci-fi novels and .Iam binge watcher when it comes to serieses.Iam also into Astrophysics.I love music and love to play my guitar.</p>
               <br />
               <p>My expertise lies mainly in the following : </p>
               <div class="skills">
@@ -138,7 +138,8 @@
        </div>
        <div class="exp-card">
         <h2>Web Applications</h2>
-        
+        <a href="">Manifesta Online Biennale</a>
+        <p>This is a website that i did for Manifesta the online biennale conducted by My college(GEC THRISSUR) to showcase various skills of students.</p>
       </div>
       
       <div class="exp-card">
@@ -165,6 +166,18 @@
     <section id="footer" class="footer">
       <h3> &lt;/&gt; with <i class="fa fa-heart  telegram-icon" ></i> by incrypt0</h3>
     </section>
-    <script src="js/app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lax.js"></script>
+    <script>
+      window.onload = function () {
+        lax.setup(); // init
+
+        const updateLax = () => {
+          lax.update(window.scrollY);
+          window.requestAnimationFrame(updateLax);
+        };
+
+        window.requestAnimationFrame(updateLax);
+      };
+    </script>
   </body>
 </html>
