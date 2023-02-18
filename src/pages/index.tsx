@@ -17,7 +17,22 @@ export default function Home() {
     <>
       <Head>
         <title>Krishna</title>
-        <meta name="description" content="Hi Im Krishnanand V P, Developer Success Engineer @ Edge & Node, Working on The Graph" />
+        <meta
+          name="description"
+          content="Hi Im Krishnanand V P, Developer Success Engineer @ Edge & Node, Working on The Graph"
+        />
+        <meta property="og:title" content="Krishna" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.krishna.dev/" />
+        <meta
+          property="og:image"
+          content="https://www.krishna.dev/images/profile.jpg"
+        />
+        <meta
+          property="og:description"
+          content="Hi Im Krishnanand V P, Developer Success Engineer @ Edge & Node, Working on The Graph"
+        />
+
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
