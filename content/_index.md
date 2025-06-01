@@ -11,7 +11,7 @@ footer = false
 name = "Krishnanand"
 id = "krishnanand"
 bio = "software engineer, web3 enthusiast"
-avatar = "img/avatar.webp"
+# avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
     { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
