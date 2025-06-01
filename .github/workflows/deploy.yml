@@ -1,0 +1,38 @@
+name: Build and Deploy to GitHub Pages
+
+# Trigger the workflow on push to the main branch
+on:
+  push:
+    branches: [ main ]
+
+# Set permissions for the workflow to write to the repository
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch all history for themes that might be git submodules
+          submodules: recursive
+          
+      - name: Build and Deploy to GitHub Pages
+        uses: shalzz/zola-deploy-action@master
+        env:
+          # Target branch for GitHub Pages
+          PAGES_BRANCH: gh-pages
+          # Use the automatic GitHub token (no need for personal access token)
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Build directory (default is current directory)
+          BUILD_DIR: . 
