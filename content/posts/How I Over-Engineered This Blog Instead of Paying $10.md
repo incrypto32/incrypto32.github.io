@@ -44,4 +44,4 @@ It was fun... kinda. It's been a while since I've been able to spend time on stu
 
 Now, I kinda want to revamp my personal website and add more stuff there, but I only have so much time. I'll leave it for another day.
 
-![breakfast tree.png](assets/breakfast%20tree.png)
+![breakfast tree.png](/assets/breakfast%20tree.png)
