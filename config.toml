@@ -5,7 +5,7 @@
 #
 #=========================================================================================
 
-base_url = "https://krishna.dev/blog"
+base_url = "https://krishna.dev"
 title = "xxxx"
 description = "xxxx xxxx xxxx"
 default_language = "en"
