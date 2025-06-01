@@ -6,8 +6,8 @@
 #=========================================================================================
 
 base_url = "https://krishna.dev"
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+title = "Krishna"
+description = "Krisnanand's personal website"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
