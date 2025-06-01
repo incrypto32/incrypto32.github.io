@@ -8,9 +8,9 @@ lang = 'en'
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
-name = "Jhon Wick"
-id = "jhonwick"
-bio = "dog person, killer"
+name = "Krishnanand"
+id = "krishnanand"
+bio = "software engineer, web3 enthusiast"
 avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
@@ -25,4 +25,6 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hi, I'm ...
+Hi, I'm Krishnanand 👋🏻
+
+Greetings! I'm a software engineer with a passion for web3 and innovative technologies. Currently at Edge & Node, I work on The Graph — a blockchain indexing protocol. I excel in debugging, problem-solving, and possess diverse skills in programming languages like Rust, Golang, Dart and Typescript and frameworks like React, Vue and Flutter. But what truly sets me apart is my insatiable thirst for learning. Always eager to expand my knowledge, I embrace new programming languages and creative problem-solving approaches. Let's create revolutionary solutions together!
