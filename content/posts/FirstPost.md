@@ -27,3 +27,4 @@ fn main() {
 ```
 
 Stay tuned for more posts!
+![Image](/images/breakfast.png)
