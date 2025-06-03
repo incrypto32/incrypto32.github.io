@@ -1,5 +1,5 @@
 ---
-title: How I Over-Engineered This Blog Instead of Paying $10
+title: How I Over-Engineered This Public Notes Instead of Paying $10
 date: 2025-02-22T19:37:00
 taxonomies:
   tags:
@@ -8,7 +8,7 @@ taxonomies:
 publish: true
 ---
 
-### How I Over-Engineered This Blog Instead of Paying $10
+### How I Over-Engineered My Public Notes Instead of Paying $10
 
 Am I too late to the blogging scene? Probably, yes. Who reads blogs these days, huh? I do, and probably a very small set of people like me do. And mostly, this is for me, not really for others. And i wouldn't really call this a blog, its more like taking notes in public. Thought it'd be kind of fun to learn in public. And this is the first such session, me trying to setup the perfect free blogging setup instead of paying 10$ for a service which would have done the job much better than me.
 
@@ -26,7 +26,7 @@ I found this nice tool called **[Quartz](https://quartz.jzhao.xyz/)**, a static 
 
 Now, I faced a few problems.
 
-1. **Syncing Notes Like a Mad Scientist**
+1. **Syncing Notes Like a True Techie**
    I use **[obsidian-git](https://github.com/denolehov/obsidian-git)** to sync my notes across multiple devices. Also, because I don't want to pay for [Obsidian Sync](https://obsidian.md/sync) (which, to be fair, would have been a much better UX).
 
 1. **Keeping Secrets, Sharing Thoughts**
