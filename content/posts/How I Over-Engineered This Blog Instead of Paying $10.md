@@ -43,5 +43,3 @@ After hours... I managed to get it working. (If you're reading this, then yeah, 
 It was fun... kinda. It's been a while since I've been able to spend time on stuff like this, and I'm glad I did. I'm going to start writing more here—more public notes. I don't care if anyone reads them or not. Just knowing that someone **might** and that they **might** find it useful is enough. But also, it feels strangely satisfying to just put my thoughts out there on the open web, accessible to anyone.
 
 Now, I kinda want to revamp my personal website and add more stuff there, but I only have so much time. I'll leave it for another day.
-
-![breakfast tree.png](/assets/breakfast%20tree.png)
