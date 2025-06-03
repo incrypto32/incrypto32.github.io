@@ -1,9 +1,13 @@
 ---
 title: How I Over-Engineered This Blog Instead of Paying $10
 date: 2025-02-22T19:37:00
-tags:
-- life
-- tech
+taxonomies:
+  categories:
+  - one
+  tags:
+  - one
+  - two
+  - three
 publish: true
 ---
 
