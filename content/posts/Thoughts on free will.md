@@ -1,10 +1,9 @@
 ---
 title: Thoughts on free will
-date: 2025-02-22T19:37:00
+date: 2025-05-03
 taxonomies:
   tags:
-  - tech
-  - sideprojects
+  - philosophy
 publish: true
 ---
 
