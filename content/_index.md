@@ -1,24 +1,32 @@
+---
+---
+
 +++
 template = 'home.html'
 
-[extra]
+\[extra\]
 lang = 'en'
 
 # Show footer in home page
+
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
+
 name = "Krishnanand"
 id = "krishnanand"
 bio = "Software Engineer, Rabbithole enthusiast, Curiosity junkie"
+
 # avatar = "img/avatar.webp"
-links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/incrypto32" },
-    { name = "X", icon = "x", url = "https://x.com/incrypto32" },
-    { name = "Telegram", icon = "telegram", url = "mailto:https://t.me/incrypto32" },
-]
+
+links = \[
+{ name = "GitHub", icon = "github", url = "https://github.com/incrypto32" },
+{ name = "X", icon = "x", url = "https://x.com/incrypto32" },
+{ name = "Telegram", icon = "telegram", url = "mailto:https://t.me/incrypto32" },
+\]
 
 # Show a few recent posts in home page
+
 recent = true
 recent_max = 5
 recent_more_text = "more »"

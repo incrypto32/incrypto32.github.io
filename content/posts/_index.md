@@ -1,3 +1,6 @@
+---
+---
+
 +++
 title = "My Blog"
 description = "My blog site."
@@ -7,7 +10,7 @@ page_template = "post.html"
 insert_anchor_links = "right"
 generate_feeds = true
 
-[extra]
+\[extra\]
 lang = "en"
 
 title = "Posts"
