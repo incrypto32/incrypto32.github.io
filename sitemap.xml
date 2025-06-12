@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://krishna.dev/</loc>
+    </url>
+    <url>
+        <loc>https://krishna.dev/posts/</loc>
+    </url>
+    <url>
+        <loc>https://krishna.dev/posts/are-we-all-biological-robots/</loc>
+        <lastmod>2025-05-03</lastmod>
+    </url>
+    <url>
+        <loc>https://krishna.dev/posts/how-i-over-engineered-this-blog-instead-of-paying-10/</loc>
+        <lastmod>2025-02-22T19:37:00</lastmod>
+    </url>
+    <url>
+        <loc>https://krishna.dev/tags/</loc>
+    </url>
+    <url>
+        <loc>https://krishna.dev/tags/philosophy/</loc>
+    </url>
+    <url>
+        <loc>https://krishna.dev/tags/sideprojects/</loc>
+    </url>
+    <url>
+        <loc>https://krishna.dev/tags/tech/</loc>
+    </url>
+</urlset>
