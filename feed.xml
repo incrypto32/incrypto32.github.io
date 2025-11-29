@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Krishna</title>
+	<subtitle>Krisnanand&#x27;s personal website</subtitle>
+	<link href="https://krishna.dev/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://krishna.dev"/>
+	<updated>2025-05-03T00:00:00+00:00</updated>
+	<id>https://krishna.dev/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Are we all biological robots?</title>
+		<published>2025-05-03T00:00:00+00:00</published>
+		<updated>2025-05-03T00:00:00+00:00</updated>
+		<link href="https://krishna.dev/posts/are-we-all-biological-robots/" type="text/html"/>
+		<id>https://krishna.dev/posts/are-we-all-biological-robots/</id>
+		<content type="html">&lt;p&gt;I recently started learning more about quantum computing, and somehow that drove me into an existential crisis. From quantum mechanics, it&#x27;s easy to get distracted by existential questions, and I somehow ended up on the topic of free will, consciousness, and similar ideas. My original goal of learning about quantum computing was left on hold. This is typical of me. I start out on something and get distracted by distantly related topics after a chain reaction of exploration, only to fall into rabbit holes. And I love rabbit holes.&lt;&#x2F;p&gt;
+&lt;p&gt;I always had the thought that the universe could be deterministic. Everything in the universe follows the laws of physics, and most of these laws have deterministic outcomes. Based on my understanding of physics, everything is, in fact, deterministic. If we take Newton&#x27;s laws of motion, for example, we can determine the position of a ball thrown at any point in time, given all the factors. So in my view, everything was indeed deterministic because everything is made up of matter, including humans, and matter obeys the laws of physics.&lt;&#x2F;p&gt;
+&lt;p&gt;So if everything, including us humans and all animals and plants in this universe, is just following the laws of physics, this means everything has a cause. There&#x27;s nothing happening on its own. The ball we talked about earlier was in the air because I decided to throw it. I decided to throw it for the sake of an example. And why did I need an example? Because I was writing about free will. Why did I write about free will? Because I read something that led to it. So everything is cause and effect.&lt;&#x2F;p&gt;
+&lt;p&gt;I always had this thought, but I also believed there was something else at play in our brains that allowed us to make some sort of free decision. I didn&#x27;t believe it when someone told me everything is fate. I didn&#x27;t believe in the concept of fate. Only recently did I get the time to actually stumble onto the truth that it is, in fact, very scientific. A vast majority of scientists are in agreement that free will doesn&#x27;t exist. These are neuroscientists who study the brain, and from what I&#x27;ve read so far, decisions are made in the brain even before we are consciously aware of them. So it is almost like the brain is just a machine.&lt;&#x2F;p&gt;
+&lt;p&gt;Are we all just biological robots?&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>How I Over-Engineered This Public Notes Instead of Paying $10</title>
+		<published>2025-02-22T19:37:00+00:00</published>
+		<updated>2025-02-22T19:37:00+00:00</updated>
+		<link href="https://krishna.dev/posts/how-i-over-engineered-this-blog-instead-of-paying-10/" type="text/html"/>
+		<id>https://krishna.dev/posts/how-i-over-engineered-this-blog-instead-of-paying-10/</id>
+		<content type="html">&lt;h3 id=&quot;how-i-over-engineered-my-public-notes-instead-of-paying-10&quot;&gt;How I Over-Engineered My Public Notes Instead of Paying $10&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-i-over-engineered-my-public-notes-instead-of-paying-10&quot; aria-label=&quot;Anchor link for: how-i-over-engineered-my-public-notes-instead-of-paying-10&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Am I too late to the blogging scene? Probably, yes. Who reads blogs these days, huh? I do, and probably a very small set of people like me do. And mostly, this is for me, not really for others. And i wouldn&#x27;t really call this a blog, its more like taking notes in public. Thought it&#x27;d be kind of fun to learn in public. And this is the first such session, me trying to setup the perfect free blogging setup instead of paying 10$ for a service which would have done the job much better than me.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;a-quest-for-not-paying&quot;&gt;A Quest for not paying&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-quest-for-not-paying&quot; aria-label=&quot;Anchor link for: a-quest-for-not-paying&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Today, I took the time to set up my blogging workflow. I already use &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;obsidian.md&#x2F;&quot;&gt;Obsidian&lt;&#x2F;a&gt; a lot for note-taking and journaling, so I searched for ways to publish Obsidian notes as blogs. There&#x27;s a nice paid tool called &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;obsidian.md&#x2F;publish&quot;&gt;Obsidian Publish&lt;&#x2F;a&gt;, Me being me, of course, I&#x27;d spend hours of engineering effort to create something instead of paying 10 bucks for it. And I did exactly that.&lt;&#x2F;p&gt;
+&lt;p&gt;I found this nice tool called &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;quartz.jzhao.xyz&#x2F;&quot;&gt;Quartz&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;, a static site generator built with Obsidian in mind. Jumped into the docs and set it up.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;the-struggles&quot;&gt;The Struggles&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-struggles&quot; aria-label=&quot;Anchor link for: the-struggles&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Now, I faced a few problems.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Syncing Notes Like a True Techie&lt;&#x2F;strong&gt;
+I use &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;denolehov&#x2F;obsidian-git&quot;&gt;obsidian-git&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; to sync my notes across multiple devices. Also, because I don&#x27;t want to pay for &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;obsidian.md&#x2F;sync&quot;&gt;Obsidian Sync&lt;&#x2F;a&gt; (which, to be fair, would have been a much better UX).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Keeping Secrets, Sharing Thoughts&lt;&#x2F;strong&gt;
+To publish my blogs, I needed Quartz to track only the notes I wanted to go public. This wasn&#x27;t very straightforward. What I ended up doing was creating a &lt;strong&gt;git subtree&lt;&#x2F;strong&gt; called &lt;code&gt;Public&lt;&#x2F;code&gt; and using Quartz there.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;pages.github.com&#x2F;&quot;&gt;GitHub Pages&lt;&#x2F;a&gt; Said &quot;Nope&quot;&lt;&#x2F;strong&gt;
+&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;&quot;&gt;GitHub&lt;&#x2F;a&gt; won&#x27;t let you use GitHub Pages for free with private repos. So I had to write a &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;features&#x2F;actions&quot;&gt;GitHub Actions&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; workflow to copy over the build folder generated by Quartz to a new public repo and push it there each time I make a change in my Obsidian repo (which contains all my private notes, hence why I can&#x27;t just make it public).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;After hours... I managed to get it working. (If you&#x27;re reading this, then yeah, it&#x27;s working.)&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;i-did-it&quot;&gt;I Did It!&lt;a class=&quot;zola-anchor&quot; href=&quot;#i-did-it&quot; aria-label=&quot;Anchor link for: i-did-it&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;It was fun... kinda. It&#x27;s been a while since I&#x27;ve been able to spend time on stuff like this, and I&#x27;m glad I did. I&#x27;m going to start writing more here—more public notes. I don&#x27;t care if anyone reads them or not. Just knowing that someone &lt;strong&gt;might&lt;&#x2F;strong&gt; and that they &lt;strong&gt;might&lt;&#x2F;strong&gt; find it useful is enough. But also, it feels strangely satisfying to just put my thoughts out there on the open web, accessible to anyone.&lt;&#x2F;p&gt;
+&lt;p&gt;Now, I kinda want to revamp my personal website and add more stuff there, but I only have so much time. I&#x27;ll leave it for another day.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
